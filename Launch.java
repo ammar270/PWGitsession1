@@ -2,6 +2,12 @@ class Launch
 {
   void ml()
   {
-   //some code
+  System.out.println("hello java lovers");
+   }
+}class Launch
+{
+  void m2()
+  {
+  System.out.println("hello java lovers");
    }
 }
